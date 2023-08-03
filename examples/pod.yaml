@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: demo-kenz13
-      image: nginx:latest
+      image: nginx
       ports:
         - containerPort: 80
