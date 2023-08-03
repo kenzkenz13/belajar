@@ -9,4 +9,4 @@ spec:
     - name: demo-kenz13
       image: nginx:latest
       ports:
-        - containerPort: 8080
+        - containerPort: 80
